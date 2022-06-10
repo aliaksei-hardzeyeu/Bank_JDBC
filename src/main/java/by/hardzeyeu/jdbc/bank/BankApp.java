@@ -13,14 +13,7 @@ public class BankApp {
 
         account.operationsWithAccount();
 
-        System.out.println("main commit 1 before branching feature");
 
-        System.out.println("main commit 2 after branching feature");
-        System.out.println("main commit 3 after branching feature");
-
-        System.out.println("feature_1 commit 1");
-        System.out.println("feature_2 commit 1");
-        System.out.println("feature_3 commit 1");
     }
 }
 
