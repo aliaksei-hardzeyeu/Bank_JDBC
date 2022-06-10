@@ -16,6 +16,7 @@ public class BankApp {
         System.out.println("main commit 1 before branching feature");
 
         System.out.println("main commit 2 after branching feature");
+        System.out.println("main commit 3 after branching feature");
     }
 }
 
