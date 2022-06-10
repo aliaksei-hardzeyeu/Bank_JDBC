@@ -13,7 +13,6 @@ public class BankApp {
 
         account.operationsWithAccount();
 
-        System.out.println("main commit 1 before branching feature");
     }
 }
 
