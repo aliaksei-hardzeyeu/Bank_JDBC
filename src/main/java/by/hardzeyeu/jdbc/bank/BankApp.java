@@ -12,6 +12,8 @@ public class BankApp {
         Account account = accountLogic.chooseOrCreateAccount(user);
 
         account.operationsWithAccount();
+
+        System.out.println("main commit 1 before branching feature");
     }
 }
 
